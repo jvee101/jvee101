@@ -1,16 +1,6 @@
-## Hi there 👋 I am Jayvee M. Lumagbas, aspiring Data Analyst
+## Hi, I'm Jayvee!
 
-<!--
-**jvee101/jvee101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Excel, SQL and Power BI
-- 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... lumagbasjayvee5@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Computer Science graduate at Institute of Creative Computer Technology Colleges.
+I'm a aspiring Data Analyst.
+I used Excel, SQL and Power BI,
+passionate about collect, process and analyze data
